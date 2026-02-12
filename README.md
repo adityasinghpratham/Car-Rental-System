@@ -1,12 +1,14 @@
 Signup Page
-<img width="1919" height="712" alt="image" src="https://github.com/user-attachments/assets/a90856c7-d980-4f0a-947e-a3c0c5cdba61" />
+<img width="1904" height="733" alt="image" src="https://github.com/user-attachments/assets/7d20d19d-9eb2-44a4-a7d1-426e47a57677" />
+
 
 
 Login Page
+<img width="1904" height="651" alt="image" src="https://github.com/user-attachments/assets/7302fe92-8fcd-42a9-97db-040ec262c25a" />
 
-<img width="1902" height="838" alt="image" src="https://github.com/user-attachments/assets/9764df8a-320c-41ce-9f7a-1893e92eb463" />
 
 Admin Dashboard
+<img width="1902" height="838" alt="image" src="https://github.com/user-attachments/assets/9764df8a-320c-41ce-9f7a-1893e92eb463" />
 <img width="1906" height="875" alt="image" src="https://github.com/user-attachments/assets/697d3ded-a584-4315-b904-f0ae54506369" />
 
 
